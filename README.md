@@ -1,14 +1,14 @@
 <h1 align="center">Heya brothers ! 🔥 I'm Flame!</h1>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+curious+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+on+project+ayanokouji%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+rather+noob+developer+from+India%E2%9C%8C%EF%B8%8F;Working+on+project+ayanokouji%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
-  <a href="https://t.me/Flame_2005"><img src="https://telegra.ph/file/0f9e49e3c4aeba7d52754.jpg" alt="Flame x Hashira"></a>
+  <a href="https://t.me/Flame_2005"><img src="https://telegra.ph/file/62a7417bb5c9615822530.jpg" alt="Flame x Hashira"></a>
   
   
   
-  <a href="https://telegram.me/kira_Yoshikage_789">
+  <a href="https://telegram.me/Flame_2005">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
   </a>  
  </a>
@@ -25,7 +25,7 @@
 
 # My Activity Graph 
 
-![Flame's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=oeofer-xt&custom_title=My%20Graph&bg_color=241732&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+![Flame's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=orofer-xt&custom_title=My%20Graph&bg_color=241732&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 
 
 

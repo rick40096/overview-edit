@@ -13,7 +13,7 @@
   </a>  
  </a>
   <a href="https://github.com/orofer-xt">
-    <img src="https://img.shields.io/github/followers/h0daka?label=GitHub&logo=github&style=for-the-badge&color=black"/>
+    <img src="https://img.shields.io/github/followers/h0daka?label=GitHub&logo=github&style=for-the-badge&color=green"/>
   </a>
 
 # My GitHub Stats

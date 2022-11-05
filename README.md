@@ -1,7 +1,7 @@
 <h1 align="center">Heya brothers ! 🔥 I'm Flame!</h1>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+rather+noob+developer+from+India%E2%9C%8C%EF%B8%8F;Working+on+project+ayanokouji%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=The+Owner+Of+Hashira+Association+In+Telegram%E2%9C%8C%EF%B8%8F;Working+on+project+ayanokouji%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
   <a href="https://t.me/Flame_2005"><img src="https://telegra.ph/file/20fe1414239048c931d82.jpg" alt="Flame x Hashira"></a>

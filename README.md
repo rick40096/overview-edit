@@ -20,7 +20,7 @@
 
 ![Rick's Git Stats](https://github-readme-stats.vercel.app/api?username=rick40096&include_all_commits=true&count_private=true&theme=highcontrast)
 
-![Rick's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=ℕ@._.օռɛ&theme=tokyonight)
+![Rick's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=rick40096&theme=tokyonight)
 ![Rick's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rick40096&theme=tokyonight&layout=compact&langs_count=6)
 
 # My Activity Graph 

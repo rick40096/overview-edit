@@ -1,14 +1,14 @@
-<h1 align="center">Heya brothers ! 🔥 I'm Flame!</h1>
+<h1 align="center">Heya brothers ! '-' I'm no one!</h1>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=The+Owner+Of+Hashira+Association%E2%9C%8C%EF%B8%8F;Working+on+project+ayanokouji%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=no one%E2%9C%8C%EF%B8%8F;ℕ@._.օռɛ%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
-  <a href="https://t.me/Flame_2005"><img src="https://telegra.ph/file/20fe1414239048c931d82.jpg" alt="Flame x Hashira"></a>
+  <a href="https://t.me/ricks_005"><img src="E:\live wallpaper\New folder" alt="ℕ@._.օռɛ"></a>
   
   
   
-  <a href="https://telegram.me/Flame_2005">
+  <a href="https://telegram.me/ricks_005">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
   </a>  
  </a>
@@ -18,17 +18,17 @@
 
 # My GitHub Stats
 
-![Flame's Git Stats](https://github-readme-stats.vercel.app/api?username=orofer-xt&include_all_commits=true&count_private=true&theme=highcontrast)
+![Rick's Git Stats](https://github-readme-stats.vercel.app/api?username=rick40096t&include_all_commits=true&count_private=true&theme=highcontrast)
 
-![Flame's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=orofer-xt&theme=tokyonight)
-![Flame's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orofer-xt&theme=tokyonight&layout=compact&langs_count=6)
+![Rick's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=rick40096&theme=tokyonight)
+![Rick's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rick40096&theme=tokyonight&layout=compact&langs_count=6)
 
 # My Activity Graph 
 
-![Flame's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=orofer-xt&custom_title=My%20Graph&bg_color=241732&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+![Rick's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=rick40096&custom_title=My%20Graph&bg_color=241732&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 
 Trophies:  
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=orofer-xt&theme=dracula&count_private=true"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=rick40096t&theme=dracula&count_private=true"></div>
 
 
 

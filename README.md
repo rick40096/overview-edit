@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
   </a>  
  </a>
-  <a href="https://github.com/orofer-xt">
+  <a href="https://github.com/rick40096">
     <img src="https://img.shields.io/github/followers/h0daka?label=GitHub&logo=github&style=for-the-badge&color=green"/>
   </a>
 

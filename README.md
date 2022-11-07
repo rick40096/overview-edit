@@ -27,5 +27,8 @@
 
 ![Flame's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=orofer-xt&custom_title=My%20Graph&bg_color=241732&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 
+Trophies:  
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=orofer-xt&theme=dracula&count_private=true"></div>
+
 
 

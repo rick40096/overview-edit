@@ -1,10 +1,10 @@
-<h1 align="center">Heya brothers ! '-' I'm no one!</h1>
+<h1 align="center"> I'm RICK</h1>
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=no one%E2%9C%8C%EF%B8%8F;ℕ@._.օռɛ%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
-  <a href="https://t.me/ricks_005"><img src="E:\live wallpaper\New folder" alt="ℕ@._.օռɛ"></a>
+  <a href="https://t.me/ricks_005"><img src="https://i.pinimg.com/564x/c4/21/bc/c421bc3dcd8d8897844aeb5597be25a3.jpg" alt="ℕ@._.օռɛ"></a>
   
   
   
@@ -28,7 +28,7 @@
 ![Rick's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=rick40096&custom_title=My%20Graph&bg_color=241732&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 
 Trophies:  
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=rick40096t&theme=dracula&count_private=true"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=rick40096&theme=dracula&count_private=true"></div>
 
 
 

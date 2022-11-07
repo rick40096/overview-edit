@@ -1,10 +1,10 @@
 <h1 align="center"> I'm RICK</h1>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=no one%E2%9C%8C%EF%B8%8F;ℕ@._.օռɛ%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=no one %E2%9C%8C%EF%B8%8F; ℕ@._.օռɛ %E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
-  <a href="https://t.me/ricks_005"><img src="https://i.pinimg.com/564x/c4/21/bc/c421bc3dcd8d8897844aeb5597be25a3.jpg" alt="ℕ@._.օռɛ"></a>
+  <a href="https://t.me/ricks_005"><img src="https://i.pinimg.com/564x/e0/3d/28/e03d2896c54b938a4a45a1df8c67750e.jpg" alt="ℕ@._.օռɛ"></a>
   
   
   
